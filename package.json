@@ -27,8 +27,7 @@
       "xrpl": "^4.2.5",
       "ws": "^8.18.0",
       "ts-node": "^10.9.2",
-      "typescript": "^5.3.3",
-      "dise-pkt": "^1.0.2"
+      "typescript": "^5.3.3"
     },
     "devDependencies": {
       "@types/node": "^20.10.0",
