@@ -238,6 +238,9 @@ Contributions are welcome! Please ensure your code follows the existing modular 
 
 ## 📞 Contact
 
-For support or questions, reach out on Telegram: [@trum3it](https://t.me/cryptomooonday23)
+For support or questions, reach out on 
+Telegram: [@cryptomoonday](https://t.me/cryptomooonday23)
+Twitter: https://x.com/cryptomoonday
+Discord: @cryptomoonday
 
 **⭐ Star**: this repository if you find it useful!
